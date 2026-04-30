@@ -1,0 +1,78 @@
+
+-- =========================
+-- ENTITES
+-- =========================
+
+utilisateur = (
+    id_utili INT,
+    login VARCHAR(50),
+    nom VARCHAR(50),
+    prenom VARCHAR(50),
+    mot_de_passe VARCHAR(50),
+    email VARCHAR(50),
+    role VARCHAR(50),
+    photo VARCHAR(50),
+    date_inscription DATE
+)
+
+livre = (
+    id_livre INT,
+    titre VARCHAR(50),
+    auteur VARCHAR(50),
+    matiere VARCHAR(50),
+    description VARCHAR(50),
+    etat VARCHAR(50),
+    statut VARCHAR(50),
+    image VARBINARY(50),
+    #id_utili
+)
+
+messages = (
+    id_mess INT,
+    contenu VARCHAR(50),
+    lu INT,
+    date_envoi DATE,
+    #id_utili (expéditeur),
+    #id_utili_1 (destinataire)
+)
+
+echange = (
+    id_echa INT,
+    statut VARCHAR(50),
+    date_demande DATE,
+    vu_demandeur INT,
+    vu_proprio VARCHAR(50),
+    #id_livre,
+    #id_utili (demandeur),
+    #id_utili_1 (propriétaire)
+)
+
+notation = (
+    id_nota INT,
+    note INT,
+    commentaire VARCHAR(50),
+    date_notation VARCHAR(50),
+    #id_utili (notateur),
+    #id_utili_1 (utilisateur noté)
+)
+
+noter = (
+    #id_nota,
+    #id_utili,
+    note VARCHAR(50)
+)
+
+-- =========================
+-- COMMENTAIRES LOGIQUES
+-- =========================
+
+-- utilisateur 1 --- n livre
+-- utilisateur 1 --- n messages envoyés
+-- utilisateur 1 --- n messages reçus
+-- utilisateur 1 --- n echanges (demandeur)
+-- utilisateur 1 --- n echanges (propriétaire)
+-- utilisateur 1 --- n notations envoyées
+-- utilisateur 1 --- n notations reçues
+
+-- livre 1 --- n echanges
+-- livre 1 --- n commentaires (via notation)

@@ -1,0 +1,209 @@
+# 📘 Manuel Utilisateur
+
+## 📚 Application : LibreChange — Plateforme d’échange de livres
+
+---
+
+## 🎯 Introduction
+
+Bienvenue sur **LibreChange**, une plateforme permettant aux étudiants d’échanger des livres facilement.
+
+Ce manuel utilisateur vous guide étape par étape pour utiliser toutes les fonctionnalités de l’application.
+
+---
+
+## 🔐 1. Accès à l’application
+
+### ➤ Étape 1 : Ouvrir l’application
+
+Accédez à :
+
+```
+http://localhost/plateforme_livres_MGSI/
+```
+
+---
+
+## 👤 2. Inscription
+
+### ➤ Créer un compte
+
+1. Cliquer sur **S’inscrire**
+2. Remplir les informations :
+
+   * Nom
+   * Prénom
+   * Email
+   * Login
+   * Mot de passe
+3. Cliquer sur **Créer un compte**
+
+✔ Vous pouvez maintenant vous connecter.
+
+---
+
+## 🔑 3. Connexion
+
+1. Cliquer sur **Se connecter**
+2. Entrer :
+
+   * Login
+   * Mot de passe
+3. Cliquer sur **Connexion**
+
+---
+
+## 🏠 4. Page d’accueil
+
+Après connexion, vous pouvez :
+
+* Voir les livres disponibles
+* Accéder à votre profil
+* Naviguer vers les différentes fonctionnalités
+
+---
+
+## 📚 5. Rechercher un livre
+
+1. Aller à la page **Livres**
+2. Utiliser la barre de recherche :
+
+   * Par titre
+   * Par auteur
+   * Par matière
+3. Parcourir les résultats
+
+---
+
+## ➕ 6. Ajouter un livre
+
+1. Cliquer sur **Ajouter un livre**
+2. Remplir :
+
+   * Titre
+   * Auteur
+   * Matière
+   * Description
+   * État (neuf, bon, etc.)
+   * Image (optionnel)
+3. Cliquer sur **Publier**
+
+✔ Votre livre sera visible par les autres utilisateurs.
+
+---
+
+## ✏️ 7. Modifier ou supprimer un livre
+
+Dans votre profil :
+
+* Cliquer sur **Modifier** pour changer les informations
+* Cliquer sur **Supprimer** pour retirer le livre
+
+---
+
+## 🔄 8. Demande d’échange
+
+### ➤ Envoyer une demande
+
+1. Ouvrir un livre
+2. Cliquer sur **Demander échange**
+
+---
+
+### ➤ Répondre à une demande
+
+Dans votre profil :
+
+* Cliquer sur **Accepter** ✔
+* Ou **Refuser** ❌
+
+✔ Si accepté, le livre devient en statut **échangé**
+
+---
+
+## 💬 9. Messagerie
+
+1. Aller à **Messages**
+2. Choisir un utilisateur
+3. Écrire un message
+4. Envoyer
+
+✔ Permet de discuter pour organiser l’échange.
+
+---
+
+## ⭐ 10. Notation
+
+Après un échange :
+
+1. Donner une note (1 à 5 étoiles)
+2. Ajouter un commentaire
+
+✔ Permet d’évaluer les utilisateurs.
+
+---
+
+## 👤 11. Profil utilisateur
+
+Dans votre profil, vous pouvez :
+
+* Voir vos informations
+* Modifier vos données
+* Changer votre photo
+* Voir vos livres
+* Consulter vos demandes
+* Voir vos notations
+
+---
+
+## 🔔 12. Notifications
+
+Vous recevez des notifications lorsque :
+
+* Quelqu’un demande un échange
+* Une réponse est donnée à votre demande
+
+---
+
+## 🛠️ 13. Espace Administrateur
+
+(Si vous êtes admin)
+
+* Gérer les utilisateurs
+* Supprimer des comptes
+* Gérer les livres
+
+---
+
+## 🔒 14. Sécurité
+
+* Vos mots de passe sont sécurisés
+* Vos données sont protégées
+* L’accès est contrôlé par session
+
+---
+
+## 📌 Conseils d’utilisation
+
+✔ Utiliser une image claire pour vos livres
+✔ Répondre rapidement aux demandes
+✔ Donner des évaluations honnêtes
+
+---
+
+## 📞 Support
+
+Pour toute question :
+
+* 📧 [rabia.mahir@ensiasd.ma](mailto:rabia.mahir@ensiasd.ma)
+* 📧 [ablad.m@ensiasd.ma](mailto:ablad.m@ensiasd.ma)
+
+---
+
+## ✅ Conclusion
+
+LibreChange facilite l’échange de livres entre étudiants de manière simple, rapide et sécurisée.
+
+Bonne utilisation ! 🚀
+
+---
