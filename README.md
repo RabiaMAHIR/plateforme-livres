@@ -160,6 +160,10 @@ plateforme_livres_MGSI/
 * 👮 Vérification des rôles
 
 ---
+## 🌐 Site web
+
+Vous pouvez accéder directement au projet via le lien ci-dessous :  
+🔗 [Visiter le site](https://librechange.infinityfreeapp.com/?i=1)
 
 ## 📬 Contact
 
