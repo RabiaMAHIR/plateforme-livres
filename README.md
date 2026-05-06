@@ -15,7 +15,7 @@
 
 ## 🚀 Installation
 
-### 1️⃣ Copier le projet
+### 1 Copier le projet
 
 Décompresser le dossier et le placer dans :
 
@@ -25,7 +25,7 @@ C:\xampp\htdocs\plateforme_livres_MGSI\
 
 ---
 
-### 2️⃣ Importer la base de données
+### 2 Importer la base de données
 
 1. Ouvrir : http://localhost/phpmyadmin
 2. Cliquer sur **Importer**
@@ -36,7 +36,7 @@ C:\xampp\htdocs\plateforme_livres_MGSI\
 
 ---
 
-### 3️⃣ Configurer la connexion
+### 3 Configurer la connexion
 
 Modifier le fichier `config.php` si nécessaire :
 
@@ -49,7 +49,7 @@ define('DB_PASS', '');
 
 ---
 
-### 4️⃣ Lancer l'application
+### 4 Lancer l'application
 
 ```bash
 http://localhost/plateforme_livres_MGSI/
@@ -142,22 +142,22 @@ plateforme_livres_MGSI/
 
 ## ✨ Fonctionnalités
 
-* 📖 Publication de livres à échanger
-* 🔍 Recherche avancée (titre, auteur, matière)
-* 💬 Messagerie entre utilisateurs
-* 👤 Profil utilisateur + bibliothèque
-* ⭐ Système de notation
-* 🛠️ Interface administrateur
+*  Publication de livres à échanger
+*  Recherche avancée (titre, auteur, matière)
+*  Messagerie entre utilisateurs
+*  Profil utilisateur + bibliothèque
+*  Système de notation
+*  Interface administrateur
 
 ---
 
 ## 🔒 Sécurité
 
-* 🔐 Mots de passe hashés (bcrypt)
-* 🛡️ Requêtes préparées (PDO)
-* ❌ Protection XSS avec `htmlspecialchars()`
-* 🔑 Gestion des sessions
-* 👮 Vérification des rôles
+*  Mots de passe hashés (bcrypt)
+*  Requêtes préparées (PDO)
+*  Protection XSS avec `htmlspecialchars()`
+*  Gestion des sessions
+*  Vérification des rôles
 
 ---
 ## 🌐 Site web
