@@ -15,7 +15,7 @@
 
 ## 🚀 Installation
 
-### 1 Copier le projet
+### 1. Copier le projet
 
 Décompresser le dossier et le placer dans :
 
@@ -25,7 +25,7 @@ C:\xampp\htdocs\plateforme_livres_MGSI\
 
 ---
 
-### 2 Importer la base de données
+### 2. Importer la base de données
 
 1. Ouvrir : http://localhost/phpmyadmin
 2. Cliquer sur **Importer**
@@ -36,7 +36,7 @@ C:\xampp\htdocs\plateforme_livres_MGSI\
 
 ---
 
-### 3 Configurer la connexion
+### 3. Configurer la connexion
 
 Modifier le fichier `config.php` si nécessaire :
 
@@ -169,10 +169,10 @@ Vous pouvez accéder directement au projet via le lien ci-dessous :
 
 **Groupe 45 — MGSI**
 
-* 👩‍💻 MAHIR Rabia
+*  MAHIR Rabia
   📧 [rabia.mahir@ensiasd.ma](mailto:rabia.mahir@ensiasd.ma)
 
-* 👨‍💻 ABLAD Mostapha
+*  ABLAD Mostapha
   📧 [ablad.m@ensiasd.ma](mailto:ablad.m@ensiasd.ma)
 
 ---
